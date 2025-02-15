@@ -1,0 +1,31 @@
+{
+    "provinces": [
+      {
+        "id": 1,
+        "name": "Banteay Meanchey",
+        "khmer_name": "បន្ទាយមានជ័យ",
+        "districts": [
+          {
+            "id": 1,
+            "name": "Mongkol Borei",
+            "khmer_name": "មង្គលបូរី",
+            "communes": [
+              {
+                "id": 1,
+                "name": "Banteay Neang",
+                "khmer_name": "បន្ទាយនាង",
+                "villages": [
+                  {
+                    "id": 1,
+                    "name": "Ou Thum",
+                    "khmer_name": "អូរធំ"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
