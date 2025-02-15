@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [
     '192.168.8.123',  # Your local IP
     'localhost:8080',
     '8069-117-20-113-197.ngrok-free.app',
+    'django-system-management.up.railway.app'
 ]
 
 
@@ -145,6 +146,6 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8069-117-20-113-197.ngrok-free.app',  # Add your ngrok URL
+    'https://django-system-management.up.railway.app',  # Add your ngrok URL
 ]
 
