@@ -5,3 +5,4 @@ python manage.py makemigrations
 pip install xhtml2pdf
 pip install django-import-export
 pip install weasyprint
+pip freeze > requirements.txt
